@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo ip address add 12.23.34.5 dev enp0s25
